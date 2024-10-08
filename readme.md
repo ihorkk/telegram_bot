@@ -7,8 +7,8 @@ This project is a Telegram bot built using TypeScript and the Telegraf framework
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/telegram_bot_telegraf.git
-cd telegram_bot_telegraf
+git clone https://github.com/ihorkk/telegram_bot.git
+cd telegram_bot
 ```
 
 2. Install dependencies: Make sure you have Node.js and npm installed. Then, run:
